@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+!.env.example
